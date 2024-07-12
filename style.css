@@ -1,0 +1,10 @@
+.nav-link:hover{
+    color: black !important;
+}
+.card{
+    transition: all 0.4s;
+}
+.card:hover{
+    transform: scale(1.15);
+    color:#0DCAF0;
+}
